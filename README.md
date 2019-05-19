@@ -1,5 +1,7 @@
 # eslint-example
 
+## How to create (create once)
+
 * create package.json
 
 ```
@@ -25,6 +27,8 @@ $ ./node_modules/eslint -v
     "lint": "eslint ./*.js"
   },
 ```
+
+## How to run
 
 * run eslint
 
